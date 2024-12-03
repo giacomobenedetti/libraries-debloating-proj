@@ -1,4 +1,4 @@
-from ldd import run_ldd, get_names, get_exported, check_intersection
+from ldd import get_names, get_exported, check_intersection, run_libtree
 from pprint import pprint
 import configparser
 from argparse import ArgumentParser
@@ -16,8 +16,8 @@ libs = []
 
 if __name__ == "__main__":
     args = parser.parse_args()
-    for ex in exs[:1]:
-        ldd_output = run_ldd(ex)
+    for ex in exs:
+        ldd_output = run_libtree(ex)
         # pprint(ldd_output)
 
         exported = []
@@ -46,13 +46,15 @@ if __name__ == "__main__":
 
         # generate a csv
         with open(f'csv/{ex.split("/")[-1]}.csv', 'w') as f:
-            f.write("Library, # Unused Functions, % Unused Functions\n")
+            f.write("Library;# Unused Functions;% Unused Functions\n")
             for lib in ldd_output:
                 exported = get_exported(lib)
                 try:
-                    f.write(f"{lib}, {len(exported) - check_intersection(exported, names)}, {((len(exported) - check_intersection(exported, names))/len(exported))*100}%\n")
+                    numbers = str(len(exported) - check_intersection(exported, names)).replace(".", ",")
+                    percentage = str(((len(exported) - check_intersection(exported, names))/len(exported))*100).replace(".", ",")
+                    f.write(f"{lib};{numbers};{percentage}%\n")
                 except ZeroDivisionError:
-                    f.write(f"{lib}, NA, NA\n")
+                    f.write(f"{lib};NA;NA\n")
         
 
 
