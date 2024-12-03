@@ -6,7 +6,7 @@ from re import findall
     Run lddtree to get the shared libraries used by the executable and format them to have a flat list of shared libraries
 '''
 def run_ldd(program: str):
-    output = check_output(split(f"lddtree {program}"))
+    output = check_output(split(f"ldd {program}"))
     output = output.decode()
     output = output.split("\n")
     output = [x for x in output if "=>" in x]
