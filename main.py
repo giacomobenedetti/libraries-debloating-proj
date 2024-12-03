@@ -44,6 +44,18 @@ if __name__ == "__main__":
                 print(f"No exported functions: {lib}")
                 print("\n")
 
+        # generate a csv
+        with open(f'csv/{ex.split("/")[-1]}.csv', 'w') as f:
+            f.write("Library, # Unused Functions, % Unused Functions\n")
+            for lib in ldd_output:
+                exported = get_exported(lib)
+                try:
+                    f.write(f"{lib}, {len(exported) - check_intersection(exported, names)}, {((len(exported) - check_intersection(exported, names))/len(exported))*100}%\n")
+                except ZeroDivisionError:
+                    f.write(f"{lib}, NA, NA\n")
+        
+
+
 
         # print only if the table argument is passed
         if args.table:
