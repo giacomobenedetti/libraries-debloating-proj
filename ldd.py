@@ -2,16 +2,35 @@ from subprocess import check_output
 from shlex import split
 from re import findall
 
+
 '''
-    Run lddtree to get the shared libraries used by the executable and format them to have a flat list of shared libraries
+    Run libtree to collect shared libraries involved in the binary.
+  
+    This function runs libtree with the -vvv and -p flags and takes only the shared libraries paths from each line.
+    The output of libtree is like:
+    /usr/bin/ls
+        ├── /lib/x86_64-linux-gnu/libselinux.so.1 [ld.so.conf]
+        │   ├── /lib/x86_64-linux-gnu/libpcre2-8.so.0 [ld.so.conf]
+        │   │   └── /lib/x86_64-linux-gnu/libc.so.6 [ld.so.conf]
+        │   │       └── /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2 [ld.so.conf]
+        │   ├── /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2 [ld.so.conf]
+        │   └── /lib/x86_64-linux-gnu/libc.so.6 [ld.so.conf]
+        │       └── /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2 [ld.so.conf]
+        └── /lib/x86_64-linux-gnu/libc.so.6 [ld.so.conf]
+            └── /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2 [ld.so.conf]
+
+    The function returns a set with the shared libraries paths.
+
 '''
-def run_ldd(program: str):
-    output = check_output(split(f"ldd {program}"))
+
+def run_libtree(program: str) -> set:
+    output = check_output(split(f"libtree -vvv -p {program}"))
     output = output.decode()
     output = output.split("\n")
-    output = [x for x in output if "=>" in x]
-    output = [x.split("=>")[1].strip().split(" ")[0] for x in output]
-    return output
+    # output = [x for x in output if "├──" in x or "└──" in x]
+    output = [findall(r"(\/.*\.so.*)\s", x) for x in output if x]
+    set_shared_libraries = set([x[0] for x in output if len(x) > 0])
+    return set_shared_libraries
 
 
 def get_exported(shared_lib: str):
@@ -28,15 +47,15 @@ def get_exported(shared_lib: str):
     
 '''
     nm returns an output like:
-                     w _ITM_deregisterTMCloneTable
-                 w _ITM_registerTMCloneTable
-                 w __cxa_finalize@GLIBC_2.2.5
-                 w __gmon_start__
-                 U __isoc99_scanf@GLIBC_2.7
-                 U __libc_start_main@GLIBC_2.34
-                 U __stack_chk_fail@GLIBC_2.4
-                 U cos@GLIBC_2.2.5
-                 U printf@GLIBC_2.2.5
+                w _ITM_deregisterTMCloneTable
+                w _ITM_registerTMCloneTable
+                w __cxa_finalize@GLIBC_2.2.5
+                w __gmon_start__
+                U __isoc99_scanf@GLIBC_2.7
+                U __libc_start_main@GLIBC_2.34
+                U __stack_chk_fail@GLIBC_2.4
+                U cos@GLIBC_2.2.5
+                U printf@GLIBC_2.2.5
 
     This function extracts the function names tagged with U             
     '''
