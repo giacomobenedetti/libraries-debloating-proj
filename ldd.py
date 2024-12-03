@@ -22,6 +22,7 @@ from re import findall
     The function returns a set with the shared libraries paths.
 
 '''
+
 def run_libtree(program: str) -> set:
     output = check_output(split(f"libtree -vvv -p {program}"))
     output = output.decode()
