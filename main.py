@@ -1,4 +1,4 @@
-from ldd import get_names, get_exported, check_intersection, run_libtree
+from ldd import get_names, get_exported, check_intersection, run_libtree, run_ldd
 from pprint import pprint
 import configparser
 from argparse import ArgumentParser
@@ -11,13 +11,14 @@ exs = loads(config['DEFAULT']['executable'])
 parser = ArgumentParser()
 # add an argument to print our the table
 parser.add_argument("-t", "--table", help="Print out the bloating factor latex table", action="store_true")
-
+parser.add_argument("-p", "--plot", help="Plot the bloating factor and total usage of libraries", action="store_true")
 libs = []
 
 if __name__ == "__main__":
     args = parser.parse_args()
     for ex in exs:
-        ldd_output = run_libtree(ex)
+        ldd_output, direct_deps = run_libtree(ex)
+        # ldd_output = run_ldd(ex)
         # pprint(ldd_output)
 
         exported = []
@@ -46,38 +47,54 @@ if __name__ == "__main__":
 
         # generate a csv
         with open(f'csv/{ex.split("/")[-1]}.csv', 'w') as f:
-            f.write("Library;# Unused Functions;% Unused Functions\n")
+            f.write("Library;# Unused Functions;% Unused Functions;# Total Functions\n")
             for lib in ldd_output:
                 exported = get_exported(lib)
                 try:
                     numbers = str(len(exported) - check_intersection(exported, names)).replace(".", ",")
                     percentage = str(((len(exported) - check_intersection(exported, names))/len(exported))*100).replace(".", ",")
-                    f.write(f"{lib};{numbers};{percentage}%\n")
+                    f.write(f"{lib};{numbers};{percentage}%;{len(exported)}\n")
                 except ZeroDivisionError:
-                    f.write(f"{lib};NA;NA\n")
+                    f.write(f"{lib};NA;NA;NA\n")
         
 
+
+            
 
 
         # print only if the table argument is passed
         if args.table:
+            table_tex = open(f"tables/{ex.split('/')[-1]}.tex", "w")
             escape = '\_'
             # Generate a latex table with the bloating factor of each library
-            print("\\begin{table}[]")
-            print("\\begin{tabular}{|l|l|l|}")
-            print("\\hline")
-            print("Library & Bloating Factor & Bloating Factor \% \\\\ \\hline")
+            table_tex.write("\\begin{table}[h]\n\n")
+            table_tex.write("\\centering\n")
+            table_tex.write(f"\\caption{'{'}{ex.split('/')[-1].replace('_', escape)}{'}'}\n")
+            table_tex.write("\\footnotesize\n")
+            table_tex.write("\\begin{tabular}{l|c|c}\n")
+            table_tex.write("\\toprule\n")
+            table_tex.write("Library & Bloating Factor & Bloating Factor \% \\\\ \\midrule\n")
             for lib in ldd_output:
                 exported = get_exported(lib)
                 try:
-                    print(f"{lib.replace('_', escape)} & {len(exported) - check_intersection(exported, names)} & {((len(exported) - check_intersection(exported, names))/len(exported))*100}\% \\\\ \\hline")
+                    if lib in direct_deps:
+                        table_tex.write(f"\colorbox{'{'}gray!20{'}{'}{lib.replace('_', escape)}{'}'} & {len(exported) - check_intersection(exported, names)} & {((len(exported) - check_intersection(exported, names))/len(exported))*100}\% \\\\ \\hline\n")
+                    else:   
+                        table_tex.write(f"{lib.replace('_', escape)} & {len(exported) - check_intersection(exported, names)} & {((len(exported) - check_intersection(exported, names))/len(exported))*100}\% \\\\ \\hline\n")
                 except ZeroDivisionError:
-                    print(f"{lib} & NA & NA \\\\ \\hline")
-            print("\\end{tabular}")
-            print("\\end{table}")
-            print("\n")
+                    table_tex.write(f"{lib} & NA & NA \\\\ \\hline\n")
+            table_tex.write("\\bottomrule\n")
+            table_tex.write("\\end{tabular}\n")
+            table_tex.write("\\end{table}\n")
+            table_tex.write("\n")
 
 
     ocurrences = dict((x, libs.count(x)) for x in set(libs))
     sorted_occurrences = dict(sorted(ocurrences.items(), key=lambda item: item[1]))
     print(sorted_occurrences)
+
+    # generate a csv
+    with open(f'csv/ocurrences.csv', 'w') as f:
+        f.write("Library;# Occurrences\n")
+        for lib in sorted_occurrences:
+            f.write(f"{lib};{sorted_occurrences[lib]}\n")

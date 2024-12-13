@@ -1,7 +1,7 @@
-Library;# Unused Functions;% Unused Functions
-/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;22;95,65217391304348%
-/lib/x86_64-linux-gnu/libc.so.6;2124;98,97483690587138%
-/lib/x86_64-linux-gnu/libstdc++.so.6;1377;97,17713479181369%
-/lib/x86_64-linux-gnu/libtbb.so.12;73;79,34782608695652%
-/lib/x86_64-linux-gnu/libgcc_s.so.1;181;99,45054945054946%
-/lib/x86_64-linux-gnu/libm.so.6;195;97,98994974874373%
+Library;# Unused Functions;% Unused Functions;# Total Functions
+/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;22;95,65217391304348%;23
+/lib/x86_64-linux-gnu/libm.so.6;195;97,98994974874373%;199
+/lib/x86_64-linux-gnu/libstdc++.so.6;1377;97,17713479181369%;1417
+/lib/x86_64-linux-gnu/libgcc_s.so.1;181;99,45054945054946%;182
+/lib/x86_64-linux-gnu/libc.so.6;2124;98,97483690587138%;2146
+/lib/x86_64-linux-gnu/libtbb.so.12;73;79,34782608695652%;92

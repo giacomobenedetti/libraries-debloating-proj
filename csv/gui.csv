@@ -1,15 +1,15 @@
-Library;# Unused Functions;% Unused Functions
-/lib/x86_64-linux-gnu/libGL.so.1;3407;98,18443804034582%
-/lib/x86_64-linux-gnu/libmd.so.0;89;100,0%
-/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;21;91,30434782608695%
-/lib/x86_64-linux-gnu/libc.so.6;2065;96,22553588070829%
-/lib/x86_64-linux-gnu/libX11.so.6;1079;91,28595600676819%
-/lib/x86_64-linux-gnu/libstdc++.so.6;1339;94,4954128440367%
-/lib/x86_64-linux-gnu/libGLdispatch.so.0;15;93,75%
-/lib/x86_64-linux-gnu/libXau.so.6;8;100,0%
-/lib/x86_64-linux-gnu/libXdmcp.so.6;42;100,0%
-/lib/x86_64-linux-gnu/libgcc_s.so.1;178;97,8021978021978%
-/lib/x86_64-linux-gnu/libxcb.so.1;666;98,81305637982196%
-/lib/x86_64-linux-gnu/libbsd.so.0;98;91,58878504672897%
-/lib/x86_64-linux-gnu/libGLX.so.0;38;92,6829268292683%
-/lib/x86_64-linux-gnu/libm.so.6;180;90,45226130653266%
+Library;# Unused Functions;% Unused Functions;# Total Functions
+/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;21;91,30434782608695%;23
+/lib/x86_64-linux-gnu/libXau.so.6;8;100,0%;8
+/lib/x86_64-linux-gnu/libX11.so.6;1079;91,28595600676819%;1182
+/lib/x86_64-linux-gnu/libbsd.so.0;98;91,58878504672897%;107
+/lib/x86_64-linux-gnu/libm.so.6;180;90,45226130653266%;199
+/lib/x86_64-linux-gnu/libXdmcp.so.6;42;100,0%;42
+/lib/x86_64-linux-gnu/libGLX.so.0;38;92,6829268292683%;41
+/lib/x86_64-linux-gnu/libstdc++.so.6;1339;94,4954128440367%;1417
+/lib/x86_64-linux-gnu/libGL.so.1;3407;98,18443804034582%;3470
+/lib/x86_64-linux-gnu/libxcb.so.1;666;98,81305637982196%;674
+/lib/x86_64-linux-gnu/libmd.so.0;89;100,0%;89
+/lib/x86_64-linux-gnu/libgcc_s.so.1;178;97,8021978021978%;182
+/lib/x86_64-linux-gnu/libc.so.6;2065;96,22553588070829%;2146
+/lib/x86_64-linux-gnu/libGLdispatch.so.0;15;93,75%;16
