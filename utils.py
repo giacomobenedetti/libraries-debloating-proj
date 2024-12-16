@@ -3,6 +3,23 @@ import os
 from matplotlib import pyplot as plt
 from pandas import read_csv, concat
 import pandas as pd
+import csv
+
+def write_aggregated_data_to_csv(data, filename='aggregated_data.csv'):
+    # Get the root directory of the project
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+    file_path = os.path.join(root_dir, filename)
+
+    print(f"Writing aggregated data to {file_path}")
+    
+    # Get the header from the columns of the dataframe
+    header = data.columns
+    
+    with open(file_path, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(header)
+        for row in data.itertuples(index=False):
+            writer.writerow(row)
 
 # Get the repositories.json file and clone all the repositories in repos folder
 def clone_repos():
@@ -32,8 +49,6 @@ def plot_bloating_factor():
     all_data = []
 
     for csv in os.listdir("csv"):
-        if not "PEMesh" in csv:
-            continue
         data = pd.read_csv(f"csv/{csv}", delimiter=";")
         if "% Unused Functions" in data.columns:
             # Remove '%' and replace ',' with '.' for numeric conversion
@@ -61,6 +76,9 @@ def plot_bloating_factor():
     # Extract the last part of the library name
     grouped_data["Library"] = grouped_data["Library"].apply(lambda x: x.split('/')[-1])
 
+    # Write the aggregated data to a CSV file
+    write_aggregated_data_to_csv(grouped_data)
+
     # Plotting
     fig, ax1 = plt.subplots(figsize=(15, 8))  # Adjust the figure size here
 
@@ -78,7 +96,7 @@ def plot_bloating_factor():
     ax2.tick_params(axis='y', labelcolor='r')
 
     fig.tight_layout()
-    plt.savefig("plots/bloating_factor_analysis_pemesh.pdf")
+    plt.savefig("plots/bloating_factor_analysis.pdf")
     plt.show()
 
 
