@@ -51,3 +51,6 @@ The `main.py` script is the core component of this project. It performs the foll
 
 By following these steps, the `main.py` script provides a comprehensive analysis of the dependencies required by the software package, aiding in the debloating process by identifying unnecessary components.
 
+# Acknowledgement
+This work has been supported by the project "Analisi delle dipendenze e dell’efficacia del debloating per il software sviluppato dal gruppo di ricerca afferente al progetto autofinanziato DIT.AD004.181" 
+
