@@ -1,6 +1,0 @@
-Library;# Unused Functions;% Unused Functions;# Total Functions;Direct
-repos/CDT/build/_libfilter/libm.so.6;1010;99,3117010816126%;1017;1
-repos/CDT/build/_libfilter/libstdc++.so.6;4351;99,22462941847206%;4385;1
-repos/CDT/build/_libfilter/libc.so.6;2133;98,75%;2160;1
-/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;22;95,65217391304348%;23;0
-repos/CDT/build/_libfilter/libgcc_s.so.1;136;98,55072463768117%;138;1

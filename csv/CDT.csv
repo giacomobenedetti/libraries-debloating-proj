@@ -1,6 +1,0 @@
-Library;# Unused Functions;% Unused Functions;# Total Functions;Direct
-/lib/x86_64-linux-gnu/libm.so.6;1089;99,36131386861314%;1096;1
-/lib/x86_64-linux-gnu/libgcc_s.so.1;180;98,9010989010989%;182;1
-/lib/x86_64-linux-gnu/libc.so.6;2841;99,05857740585773%;2868;1
-/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2;22;95,65217391304348%;23;0
-/lib/x86_64-linux-gnu/libstdc++.so.6;4540;99,27837305926089%;4573;1

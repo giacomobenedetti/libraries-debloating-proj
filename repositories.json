@@ -1,0 +1,16 @@
+{
+    "repositories": [
+        "https://github.com/maxicino/cinolib",
+        "https://github.com/marcoattene/CDT",
+        "https://github.com/gcherchi/FastAndRobustMeshArrangements",
+        "https://github.com/gismo/gismo",
+        "https://github.com/cg3hci/HexBox",
+        "https://github.com/DanielaCabiddu/PEMesh",
+        "https://github.com/gcherchi/InteractiveAndRobustMeshBooleans",
+        "https://github.com/DanielaCabiddu/OOCTriTile",
+        "https://github.com/qnzhou/ImatiSTL",
+        "https://github.com/andreasscalas/SemantisedTriangleMesh",
+        "https://github.com/MarcoAttene/MeshFix-V2.1",
+        "https://github.com/MarcoAttene/VolumeMesher"
+    ]
+}
