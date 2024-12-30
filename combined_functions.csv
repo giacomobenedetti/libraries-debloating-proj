@@ -1,0 +1,3038 @@
+0 & 1
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget10sizePolicyEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QFrame14setFrameShadowENS\_6ShadowE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartViewD2Ev
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE17\_S\_to\_string\_viewESt17basic\_string\_viewIcS2\_E@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursorC1EP13QTextDocument@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidget7setItemEiiP16QTableWidgetItem@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK15QAbstractSeries9isVisibleEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & memcpy@GLIBC\_2.14
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK9QMimeData4textEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBox14setOrientationEN2Qt11OrientationE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN11QDataStreamrsERi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & fread@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCloseDisplay
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6insertEmRKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFreeCursor
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QAbstractAxis6setMinERK8QVariant
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEf@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK11QMetaObject2trEPKcS1\_i@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XNextEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QSplitter16setStretchFactorEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView8setChartEP6QChart
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE8capacityEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5beginEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & pipe@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/ld-linux-x86-64.so.2 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK6QFrame15initStyleOptionEP17QStyleOptionFrame@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4dataEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString7indexOfERKS\_xN2Qt15CaseSensitivityE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEE4openERKNSt7\_\_cxx1112basic\_stringIcS1\_SaIcEEESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XAllocWMHints
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QHBoxLayoutC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog11qt\_metacallEN11QMetaObject4CallEiPPv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XPending
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERd@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDeleteProperty
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glRotatef
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN9QMetaType25registerNormalizedTypedefERK10QByteArrayS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QComboBox5countEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XInternAtom
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK15QAbstractSlider5valueEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbSelectEventDetails
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEcvSt17basic\_string\_viewIcS2\_EEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glEnable
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK13QGraphicsItem12mapFromSceneERK7QPointF@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ldexp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setMinimumSizeEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12domain\_errorC1EPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidget13setTabEnabledEib@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPolygonMode
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEaSEc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & memcmp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE10\_M\_disposeEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt8time\_putIcSt19ostreambuf\_iteratorIcSt11char\_traitsIcEEE3putES3\_RSt8ios\_basecPK2tmPKcSB\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1118basic\_stringstreamIcSt11char\_traitsIcESaIcEEC1Ev@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & memset@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fread@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6localeC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPopAttrib
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget10redirectedEP6QPoint@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & remove@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QSpinBox21setDisplayIntegerBaseEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetWMHints
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN16QDesktopServices7openUrlERK4QUrl@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCreateIC
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK13QGraphicsView16inputMethodQueryEN2Qt16InputMethodQueryE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidget13setCellWidgetEiiP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XRaiseWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEPFRSt8ios\_baseS0\_E@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glBlendFunc
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE9\_M\_appendEPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & powf@GLIBC\_2.27
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextFormatC2ERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1118basic\_stringstreamIcSt11char\_traitsIcESaIcEED1Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorC2ERKS\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidget17setTabBarAutoHideEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13viewportEventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget11qt\_metacallEN11QMetaObject4CallEiPPv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor14clearSelectionEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCloseIM
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & rename@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13\_M\_local\_dataEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11nativeEventERK10QByteArrayPvPx@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XMoveResizeWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_St5\_Setw@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_Zls6QDebugRK6QColor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog6acceptEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEEC1ERKNSt7\_\_cxx1112basic\_stringIcS1\_SaIcEEESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN9QXYSeries13setMarkerSizeEd
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo5writeEPKcl@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QToolBarC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetInputFocus
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glMultMatrixd
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glClear
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget5eventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE7\_M\_dataEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QApplication4execEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & close@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QComboBox14setCurrentTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt20\_\_throw\_length\_errorPKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & XFree
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & rewind@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZThn16\_NK13QOpenGLWidget11paintEngineEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN10QByteArray11reallocDataExN10QArrayData16AllocationOptionE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN10QArrayData8allocateEPPS\_xxxNS\_16AllocationOptionE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_cond\_destroy@GLIBC\_2.3.2
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strcmp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN5QFile4copyERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glClearColor
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCheckIfEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & clock\_gettime@GLIBC\_2.17
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt16\_\_throw\_bad\_castv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1119basic\_istringstreamIcSt11char\_traitsIcESaIcEED1Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt5flushIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glTranslated
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor10insertTextERK7QStringRK15QTextCharFormat@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt21ios\_base\_library\_initv@GLIBCXX\_3.4.32
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glOrtho
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE17find\_first\_not\_ofEcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & raise@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_self@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialogD2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTableView20resizeRowsToContentsEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView9dropEventEP10QDropEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK10QClipboard8mimeDataENS\_4ModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & time@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XUndefineCursor
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN15QAbstractSeries10attachAxisEP13QAbstractAxis
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt4endlIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & sqrt@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN10QArrayData19reallocateUnalignedEPS\_PvxxNS\_16AllocationOptionE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/liblz4.so.1 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4findEcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt7getlineIcSt11char\_traitsIcESaIcEERSt13basic\_istreamIT\_T0\_ES7\_RNSt7\_\_cxx1112basic\_stringIS4\_S5\_T1\_EE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XOpenDisplay
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_key\_delete@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_base7failureB5cxx11D2Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XMapRaised
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11qt\_metacallEN11QMetaObject4CallEiPPv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK15QTextCharFormat4fontEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMessageBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt28\_Rb\_tree\_rebalance\_for\_erasePSt18\_Rb\_tree\_node\_baseRS\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & stderr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12out\_of\_rangeC1EPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r19terminateERNS0\_2d115task\_arena\_baseE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setMaximumSizeEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QApplicationC1ERiPPci@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & backtrace\_symbols@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEixEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget16inputMethodQueryEN2Qt16InputMethodQueryE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10enterEventEP11QEnterEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_base7failureB5cxx11C2ERKNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt24\_\_throw\_out\_of\_range\_fmtPKcz@GLIBCXX\_3.4.20
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK8QVariant12toStringListEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13basic\_filebufIcSt11char\_traitsIcEE5closeEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QColor6greenFEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString17toIntegral\_helperE11QStringViewPbi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sleep@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel11setWordWrapEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget16setSizeIncrementEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setWindowStateE6QFlagsIN2Qt11WindowStateEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGL.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & remove@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glBindTexture
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r15spawnERNS0\_2d14taskERNS2\_18task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & cosf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QObject6threadEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem7\_\_cxx114path5\_ListC1Ev@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XUngrabPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZNK13QOpenGLWidget6metricEN12QPaintDevice17PaintDeviceMetricE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & Xutf8LookupString
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & asin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSendEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & fprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt8ios\_base7failureB5cxx114whatEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN16QCoreApplication12setAttributeEN2Qt20ApplicationAttributeEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject13setObjectNameE14QAnyStringView@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QLogValueAxis17setMinorTickCountEi
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcc\_s.so.1 & \_Unwind\_Resume@GCC\_3.0
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow5eventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK7QPixmap4saveERK7QStringPKci@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSi10\_M\_extractIfEERSiRT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glLoadIdentity
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QPushButtonC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libzstd.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidgetC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart6seriesEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XOpenIM
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart5axisXEP15QAbstractSeries
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget11paintEngineEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glVertex3d
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN15QAbstractSeries7setNameERK7QString
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetLocaleModifiers
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_allocate\_exception@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9basic\_iosIcSt11char\_traitsIcEE4initEPSt15basic\_streambufIcS1\_E@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & METIS\_PartGraphKway
+ \midrule 
+/lib/x86\_64-linux-gnu/libexpat.so.1 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XInitThreads
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEEcvbEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget20setContextMenuPolicyEN2Qt17ContextMenuPolicyE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & vsprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEE4failEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZThn16\_NK13QOpenGLWidget6metricEN12QPaintDevice17PaintDeviceMetricE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QVariantC1ERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog11eventFilterEP7QObjectP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK10QTabWidget7indexOfEPK7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glNormalPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strtoll@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12\_\_basic\_fileIcED1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fgetc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget11makeCurrentEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_sprintf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glDrawArrays
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK12QTableWidget20horizontalHeaderItemEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QColor4redFEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPushAttrib
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glMultMatrixd
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9basic\_iosIcSt11char\_traitsIcEE11\_M\_setstateESt12\_Ios\_Iostate@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidget15setCurrentIndexEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView16scrollContentsByEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setAcceptDropsEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK11QMetaObject9classNameEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFormLayout9setWidgetEiNS\_8ItemRoleEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN10QArrayData10deallocateEPS\_xx@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1115basic\_stringbufIcSt11char\_traitsIcESaIcEE3strEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog4doneEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractSlider8setValueEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayout9addWidgetEP7QWidgetiiii6QFlagsIN2Qt13AlignmentFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & syscall@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDestroyWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QComboBox15setCurrentIndexEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGL.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject7connectEPKS\_PKcS1\_S3\_N2Qt14ConnectionTypeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & vsnprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & usleep@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetWMNormalHints
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strftime@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem7\_\_cxx1118directory\_iteratorC1ERKNS0\_4pathENS\_17directory\_optionsEPSt10error\_code@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow11qt\_metacastEPKc@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString6appendERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart15removeAllSeriesEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorD2Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fputs@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glGetIntegerv
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetICValues
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget13sharedPainterEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & tan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart8setTitleERK7QString
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow16setCentralWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFileDialog20getExistingDirectoryEP7QWidgetRK7QStringS4\_6QFlagsINS\_6OptionEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1119basic\_ostringstreamIcSt11char\_traitsIcESaIcEED1Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSupportsLocale
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glDisableClientState
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZrsR11QDataStreamR6QColor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & \_ZNK7QRegExp13capturedTextsEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE9\_M\_createERmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEixEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPaletteD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XrmUniqueQuark
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow12setStatusBarEP10QStatusBar@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_assert\_fail@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbGetState
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_rethrow@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r18allocateERPNS0\_2d117small\_object\_poolEmRKNS2\_14execution\_dataE
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1118basic\_stringstreamIcSt11char\_traitsIcESaIcEE3strERKNS\_12basic\_stringIcS2\_S3\_EE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertIlEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDeleteContext
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLU.so.1 & gluProject
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & logf@GLIBC\_2.27
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialogC2EP7QWidget6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainter7setFontERK5QFont@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidget10setTabTextEiRK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QTextCursor10charFormatEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12\_\_sv\_wrapperC1ESt17basic\_string\_viewIcS2\_E@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget17mouseReleaseEventEP11QMouseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & atan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sinf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & raise@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glBindTexture
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QTextCharFormat17setUnderlineStyleENS\_14UnderlineStyleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glLightModeli
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13focusOutEventEP11QFocusEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & vsnprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView15keyReleaseEventEP9QKeyEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XrmInitialize
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidget9insertRowEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & closedir@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart4axesE6QFlagsIN2Qt11OrientationEEP15QAbstractSeries
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glScalef
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & getenv@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strrchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK9QXYSeries2atEi
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QTextFormat11hasPropertyEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & toupper@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt16invalid\_argumentC1ERKNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView18setBackgroundBrushERK6QBrush@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glTexCoordPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt5ctypeIcE13\_M\_widen\_initEv@GLIBCXX\_3.4.11
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt9terminatev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QTextFormat11intPropertyEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & abort@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_begin\_catch@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK9QXYSeries3penEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView14mouseMoveEventEP11QMouseEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidgetC2EP7QWidget6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget11initPainterEP8QPainter@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QMenuBarC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glBegin
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QAction10setToolTipERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strncpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_isoc99\_fscanf@GLIBC\_2.7
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN9QXYSeries7replaceERK5QListI7QPointFE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK12QTableWidget8rowCountEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QVariantC1Ed@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4findEPKcmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZNK13QOpenGLWidget11paintEngineEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1ERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & fmod@GLIBC\_2.38
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & setlocale@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & atan2@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & dlopen@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDrawArrays
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & popen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glHint
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_isoc99\_sscanf@GLIBC\_2.7
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & acosf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart10removeAxisEP13QAbstractAxis
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glVertexPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK7QPixmap13scaledToWidthEiN2Qt18TransformationModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glScissor
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_mutex\_trylock@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glReadPixels
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QColor6alphaFEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13setWindowIconERK5QIcon@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & fopen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt18\_Rb\_tree\_incrementPKSt18\_Rb\_tree\_node\_base@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ftruncate64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13keyPressEventEP9QKeyEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem7\_\_cxx1118directory\_iteratorppEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QSpinBox8setValueEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget12focusInEventEP11QFocusEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & asin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEE7is\_openEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & munmap@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEPFRSoS\_E@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_mutex\_unlock@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r114execution\_slotEPKNS0\_2d114execution\_dataE
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & mktime@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget11qt\_metacastEPKc@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView9showEventEP10QShowEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QAbstractAxis8setRangeERK8QVariantS2\_
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERf@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor7setRedFEf@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r17destroyERNS0\_2d118task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & inotify\_add\_watch@GLIBC\_2.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XQueryExtension
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & METIS\_SetDefaultOptions
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & strchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDisableClientState
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_xpg\_strerror\_r@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & perror@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & regexec@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEj@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QTextEdit8documentEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN11QDataStreamlsEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget10redirectedEP6QPoint@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fopen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ferror@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEE4openEPKcSt13\_Ios\_Openmode@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r14waitERNS0\_2d112wait\_contextERNS2\_18task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11changeEventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSync
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & tan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_cxa\_thread\_atexit@CXXABI\_1.3.7
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetWindowProperty
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorC1EPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ceil@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QLinearGradientC1ERK7QPointFS2\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ftell@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & puts@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1ERKS3\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView9drawItemsEP8QPainteriPP13QGraphicsItemPK24QStyleOptionGraphicsItem@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13\_S\_copy\_charsEPcPKcS7\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1119basic\_istringstreamIcSt11char\_traitsIcESaIcEEC1ERKNS\_12basic\_stringIcS2\_S3\_EESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & roundf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget12setAttributeEN2Qt15WidgetAttributeEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEE7is\_openEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_longjmp\_chk@GLIBC\_2.11
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6thread6\_StateD2Ev@GLIBCXX\_3.4.22
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glLightModeli
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSdD2Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QGuiApplication13setWindowIconERK5QIcon@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_fprintf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt12\_\_basic\_fileIcE7is\_openEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6localeC1ERKS\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_getspecific@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE7\_M\_dataEPc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QValueAxis14setLabelFormatERK7QString
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glGenTextures
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QFontC1ERK7QStringiib@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QIconC1ERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & fesetround@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QBrushC1ERK6QColorN2Qt10BrushStyleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & putchar@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & atof@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XMoveWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess20readAllStandardErrorEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN9QXYSeries16setPointsVisibleEb
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog13keyPressEventEP9QKeyEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/liblz4.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QLineEdit4textEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & \_ZNK7QRegExp13matchedLengthEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6appendEPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XQueryPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_join@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6appendERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QDirD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK9QXYSeries5countEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libzstd.so.1 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_isoc23\_sscanf@GLIBC\_2.38
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glMatrixMode
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_Z26qt\_QMetaEnum\_debugOperatorR6QDebugxPK11QMetaObjectPKc@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QComboBox10insertItemEiRK5QIconRK7QStringRK8QVariant@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess12startCommandERK7QString6QFlagsIN13QIODeviceBase12OpenModeFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glDisable
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject10timerEventEP11QTimerEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN9QShortcut9activatedEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFileDialog15getOpenFileNameEP7QWidgetRK7QStringS4\_S4\_PS2\_6QFlagsINS\_6OptionEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11setBaseSizeEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QAction11setMenuRoleENS\_8MenuRoleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget4hideEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12domain\_errorD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QGroupBox8setTitleERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & dlclose@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN5QFile6existsERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCheckTypedWindowEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_create@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN13QFontDatabase4fontERK7QStringS2\_i@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget4grabERK5QRect@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r110deallocateERNS0\_2d117small\_object\_poolEPvmRKNS2\_14execution\_dataE
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEy@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor9setGreenFEf@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & open64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glFrontFace
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QHeaderView14resizeSectionsENS\_10ResizeModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libbz2.so.1.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERb@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1119basic\_ostringstreamIcSt11char\_traitsIcESaIcEE3strEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QTextFormat8propertyEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9bad\_allocD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strtol@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt8\_\_detail20\_Prime\_rehash\_policy11\_M\_next\_bktEm@GLIBCXX\_3.4.18
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & Xutf8SetWMProperties
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glEnd
+ \midrule 
+/lib/x86\_64-linux-gnu/libpcre2-8.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZNK13QOpenGLWidget10metaObjectEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1118basic\_stringstreamIcSt11char\_traitsIcESaIcEE3strEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & \_ZNK7QRegExp7indexInERK7QStringiNS\_9CaretModeE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QColor5blueFEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt16invalid\_argumentD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_St8\_SetfillIS3\_E@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glColorPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strcmp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6thread15\_M\_start\_threadESt10unique\_ptrINS\_6\_StateESt14default\_deleteIS1\_EEPFvvE@GLIBCXX\_3.4.22
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QGuiApplication23setDesktopSettingsAwareEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK10QChartView5chartEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & sleep@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QSplitter9addWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QHeaderView21setStretchLastSectionEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess19setWorkingDirectoryERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6thread4joinEv@GLIBCXX\_3.4.11
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glViewport
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMessageBox7setTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_St13\_Setprecision@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_end\_catch@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & unlink@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLX.so.0 & XQueryExtension
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XIconifyWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QCheckBox10checkStateEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6appendEmc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN9QIODevice7readAllEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ppoll@GLIBC\_2.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColorC1EN2Qt11GlobalColorE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString11lastIndexOfERKS\_xN2Qt15CaseSensitivityE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strtok@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN19QAbstractScrollArea11eventFilterEP7QObjectP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject11eventFilterEPS\_P6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_ctype\_tolower\_loc@GLIBC\_2.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetClassHint
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XResourceManagerString
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12\_Alloc\_hiderC1EPcRKS3\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libgraphite2.so.3 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel9setMarginEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE3endEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1119basic\_ostringstreamIcSt11char\_traitsIcESaIcEEC1Ev@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libxkbcommon.so.0 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & fclose@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QVariantD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6lengthEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor13setCharFormatERK15QTextCharFormat@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fcntl@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE7compareEPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStrsIcSt11char\_traitsIcESaIcEERSt13basic\_istreamIT\_T0\_ES7\_RNSt7\_\_cxx1112basic\_stringIS4\_S5\_T1\_EE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget7repaintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QAction7setTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow10addToolBarEN2Qt11ToolBarAreaEP8QToolBar@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindowC2EP7QWidget6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r122cancel\_group\_executionERNS0\_2d118task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK4QDir6existsERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEaSEPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fgets@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK10QTableView16horizontalHeaderEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt29\_Rb\_tree\_insert\_and\_rebalancebPSt18\_Rb\_tree\_node\_baseS0\_RS\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5clearEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & inotify\_init1@GLIBC\_2.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK14QDoubleSpinBox5valueEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTexImage2D
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChartC1EP13QGraphicsItem6QFlagsIN2Qt10WindowTypeEE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBox10setMinimumEd@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4findERKS4\_m@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBox8setValueEd@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_Z21qRegisterResourceDataiPKhS0\_S0\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fclose@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QGuiApplication9clipboardEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_strcpy\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor7setRgbFEffff@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetScreenSaver
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK6QLabel4textEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject13connectNotifyERK11QMetaMethod@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_cond\_signal@GLIBC\_2.3.2
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDisable
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget11resizeEventEP12QResizeEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9dropEventEP10QDropEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsISt11char\_traitsIcEERSt13basic\_ostreamIcT\_ES5\_PKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorC2EPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & fwrite@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertIxEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog4execEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo6sentryD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN9QtPrivate13compareMemoryE14QByteArrayViewS0\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QComboBox11currentTextEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor6setRgbEiiii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5emptyEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libpcre2-16.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QStackedWidget9addWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strerror@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString3midExx@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13\_S\_copy\_charsEPcS5\_S5\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5c\_strEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK10QValueAxis11labelFormatEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor8setBlueFEf@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strlen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libfreetype.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & clock@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QLogValueAxis7setBaseEd
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strspn@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_base4InitD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & poll@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13dragMoveEventEP14QDragMoveEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_guard\_release@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & localtime@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN16QCoreApplication18applicationDirPathEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractButton11setIconSizeERK5QSize@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & XCreateWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindowD2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetWMNormalHints
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEEntEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & memmove@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPolygonOffset
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QTableWidgetItemC1Ei@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1EmcRKS3\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView17mouseReleaseEventEP11QMouseEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glColorPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glRotated
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView11qt\_metacastEPKc
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glLoadMatrixd
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFlush
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFree
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK14QStackedWidget5countEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayoutC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN5QFileC1ERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XConvertSelection
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK19QAbstractScrollArea16viewportSizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog11resizeEventEP12QResizeEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QSplitter14setOrientationEN2Qt11OrientationE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbGetMap
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEd@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainter8setBrushERK6QBrush@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZdaPvm@CXXABI\_1.3.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPixelStorei
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10paintEventEP11QPaintEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextFormatD2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strcspn@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ioctl@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFindContext
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & memmove@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_base4InitC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & cos@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strcpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbKeycodeToKeysym
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN15QAbstractSeries4hideEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt7getlineIcSt11char\_traitsIcESaIcEERSt13basic\_istreamIT\_T0\_ES7\_RNSt7\_\_cxx1112basic\_stringIS4\_S5\_T1\_EES4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog10setVisibleEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcc\_s.so.1 & \_\_popcountdi2@GCC\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK14QScatterSeries10markerSizeEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEED1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabelC1EP7QWidget6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XAllocClassHint
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcessC1EP7QObject@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN5QFileD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGL.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEpLEPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN14QScatterSeriesC1EP7QObject
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN12QPaintDeviceC2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & abort@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QLinearGradientD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QComboBox8itemTextEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTexParameteri
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEE4fillEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QVBoxLayoutC1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE7compareERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN7QLegend12setAlignmentE6QFlagsIN2Qt13AlignmentFlagEE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart10mapToValueERK7QPointFP15QAbstractSeries
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDeleteTextures
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow11qt\_metacallEN11QMetaObject4CallEiPPv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & regcomp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractSlider10setMaximumEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sysconf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZNK13QOpenGLWidget10redirectedEP6QPoint@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFreeColormap
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget6updateEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString6numberEdci@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidget10paintEventEP11QPaintEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBox10setMaximumEd@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_baseD2Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pipe@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidgetD2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QIconC1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_printf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE9\_M\_assignERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9moveEventEP10QMoveEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayout16setColumnStretchEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QActionC1EP7QObject@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPaletteC1ERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QTextEdit11setReadOnlyEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QFontD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libzstd.so.1 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & tan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbSetDetectableAutoRepeat
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strcmp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XAllocSizeHints
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTexEnvi
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QStackedWidgetC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor12endEditBlockEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK16QDialogButtonBox6buttonENS\_14StandardButtonE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject16disconnectNotifyERK11QMetaMethod@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glShadeModel
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK9QMetaType8idHelperEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK9QMimeData7hasTextEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XChangeWindowAttributes
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & mmap64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK9QComboBox12currentIndexEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QColoreqERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDestroyIC
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glColor3fv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QStackedWidget12removeWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTranslated
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject11customEventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QAbstractAxis6setMaxERK8QVariant
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QGroupBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEE3eofEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN15QAbstractSeries10setVisibleEb
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK10QByteArray11toStdStringB5cxx11Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13dragMoveEventEP14QDragMoveEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertIPKvEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK9QXYSeries13pointsVisibleEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XChangeProperty
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetWindowAttributes
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcc\_s.so.1 & pow@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & opendir@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCreateFontCursor
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & atan2f@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEED1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & clock@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZdaPv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & time@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QLayout9addWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strtoll@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLU.so.1 & gluUnProject
+ \midrule 
+/lib/x86\_64-linux-gnu/libEGL.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & puts@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbGetNames
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glLineWidth
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11qt\_metacastEPKc@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glMaterialf
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XEventsQueued
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strtoul@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN14QScatterSeries13setMarkerSizeEd
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QStringC1E5QChar@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13setSizePolicyE11QSizePolicy@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK19QAbstractScrollArea15minimumSizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetInputFocus
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QObject10objectNameEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN5QChar8categoryEDi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QCursor3posEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_thread\_atexit@CXXABI\_1.3.7
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSaIcED1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & freopen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12find\_last\_ofEPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QTextFormat13brushPropertyEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_mutex\_destroy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart7addAxisEP13QAbstractAxis6QFlagsIN2Qt13AlignmentFlagEE
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fflush@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPolygonOffset
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSi10\_M\_extractIjEERSiRT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_Znwm@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glRotated
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & vsnprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN16QCoreApplication9translateEPKcS1\_S1\_i@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QVariantC1Ei@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView12focusInEventEP11QFocusEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN6QDebugD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11resizeEventEP12QResizeEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK13QGraphicsView10mapToSceneERK6QPoint@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QValueAxisC1EP7QObject
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess5startERK7QStringRK5QListIS0\_E6QFlagsIN13QIODeviceBase12OpenModeFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QLayout17setSizeConstraintENS\_14SizeConstraintE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog16contextMenuEventEP17QContextMenuEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_mutex\_init@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QCheckBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QDir8homePathEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFileDialog15getSaveFileNameEP7QWidgetRK7QStringS4\_S4\_PS2\_6QFlagsINS\_6OptionEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZlsR11QDataStreamRK6QColor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10setVisibleEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QBoxLayout9addWidgetEP7QWidgeti6QFlagsIN2Qt13AlignmentFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XrmGetStringDatabase
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & time@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QColorDialogC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayout9addLayoutEP7QLayoutiiii6QFlagsIN2Qt13AlignmentFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainter8drawTextERK7QPointFRK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel17setScaledContentsEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEaSEOS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glColor3f
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4findEPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZdlPvmSt11align\_val\_t@CXXABI\_1.3.11
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGL.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QDialog15minimumSizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt25\_\_throw\_bad\_function\_callv@GLIBCXX\_3.4.14
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEEC1ERKNSt7\_\_cxx1112basic\_stringIcS1\_SaIcEEESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertImEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QStackedWidget15setCurrentIndexEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcc\_s.so.1 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QGuiApplication21restoreOverrideCursorEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK4QDir7isEmptyE6QFlagsINS\_6FilterEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorC1ERKNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ungetc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFormLayoutC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fcntl64@GLIBC\_2.28
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEE5closeEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QToolButton18setToolButtonStyleEN2Qt15ToolButtonStyleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_isoc23\_strtol@GLIBC\_2.38
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & puts@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog4openEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fopen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QValueAxis12setTickCountEi
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8ios\_baseC2Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsISt11char\_traitsIcEERSt13basic\_ostreamIcT\_ES5\_c@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainter6setPenERK6QColor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPushAttrib
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/ld-linux-x86-64.so.2 & \_\_tls\_get\_addr@GLIBC\_2.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPushMatrix
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strcpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fflush@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursorD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QTextEdit13setTextCursorERK11QTextCursor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_get\_exception\_ptr@CXXABI\_1.3.1
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_dynamic\_cast@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QColorDialog8getColorERK6QColorP7QWidgetRK7QString6QFlagsINS\_17ColorDialogOptionEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glDrawElements
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & frexp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBox8rejectedEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor10insertTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5eraseEmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart5axisYEP15QAbstractSeries
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glShadeModel
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & fetestexcept@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractSlider10setMinimumEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13get\_allocatorEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/liblzma.so.5 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget7devTypeEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10leaveEventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11setGeometryERK5QRect@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sched\_yield@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glColorMaterial
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glEnable
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_guard\_abort@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget6resizeERK5QSize@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & perror@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_sysv\_signal@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPolygonMode
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & open@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidgetC1EPS\_6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView14drawBackgroundEP8QPainterRK6QRectF@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QStringaSERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QVariantC1Eb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6chrono3\_V212steady\_clock3nowEv@GLIBCXX\_3.4.19
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZdlPv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13keyPressEventEP9QKeyEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & ldexpf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetWMProtocols
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog6rejectEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString13toUtf8\_helperERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6DBus.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r18allocateERPNS0\_2d117small\_object\_poolEm
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBox8acceptedEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView18focusNextPrevChildEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glLineWidth
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSi4readEPcl@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strtod@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QLogValueAxis14setLabelFormatERK7QString
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QComboBox11setItemTextEiRK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & sqrt@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/liblzma.so.5 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & readdir@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r115max\_concurrencyEPKNS0\_2d115task\_arena\_baseE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainterC1EP12QPaintDevice@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess15waitForFinishedEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & backtrace@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fopen64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt16\_\_ostream\_insertIcSt11char\_traitsIcEERSt13basic\_ostreamIT\_T0\_ES6\_PKS3\_l@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14mouseMoveEventEP11QMouseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEm@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8\_\_detail15\_List\_node\_base11\_M\_transferEPS0\_S1\_@GLIBCXX\_3.4.15
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSo6sentrycvbEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel12setAlignmentE6QFlagsIN2Qt13AlignmentFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSaveContext
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTextBrowserC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QUrl13fromLocalFileERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QActionC1ERK7QStringP7QObject@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glDepthFunc
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCreateColormap
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_snprintf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN13QFontDatabase6stylesERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt10filesystem7\_\_cxx114path17\_M\_find\_extensionEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog11qt\_metacastEPKc@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTexCoordPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strncpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1ENS4\_12\_\_sv\_wrapperERKS3\_@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & strstr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK4QPen5brushEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBox16setCenterButtonsEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QSplitterC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setWindowTitleERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QTextEditC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13\_M\_set\_lengthEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & poll@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt17\_\_istream\_extractRSiPcl@GLIBCXX\_3.4.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog10closeEventEP11QCloseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & open@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView14dragEnterEventEP15QDragEnterEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget21setAutoFillBackgroundEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fwrite@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glClearColor
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_Znam@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9basic\_iosIcSt11char\_traitsIcEE5clearESt12\_Ios\_Iostate@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QDialog8sizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6chrono3\_V212system\_clock3nowEv@GLIBCXX\_3.4.19
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetEventData
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_key\_create@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & nextafter@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & getchar@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_Z9qBadAllocv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFilterEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetKeyboardMapping
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow18setToolButtonStyleEN2Qt15ToolButtonStyleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEEC1EPKcSt13\_Ios\_Openmode@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glHint
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1EPKcRKS3\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & getpid@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK13QAbstractAxis9titleTextEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt10filesystem7\_\_cxx114path5\_List13\_Impl\_deleterclEPNS2\_5\_ImplE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glVertexPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QTableWidgetItemC1ERK7QStringi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_free\_exception@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPushMatrix
+ \midrule 
+/lib/x86\_64-linux-gnu/liblz4.so.1 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & ldexp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & fwrite@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QCursorD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1118basic\_stringstreamIcSt11char\_traitsIcESaIcEEC1ERKNS\_12basic\_stringIcS2\_S3\_EESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_Z23qUnregisterResourceDataiPKhS0\_S0\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fseek@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo5flushEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QTextEdit7setHtmlERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidgetC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE7reserveEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDrawElements
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt18\_Rb\_tree\_decrementPSt18\_Rb\_tree\_node\_base@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13runtime\_errorC2ERKNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt8\_\_detail20\_Prime\_rehash\_policy14\_M\_need\_rehashEmmm@GLIBCXX\_3.4.18
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XPeekEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainter11drawEllipseERK5QRect@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView16contextMenuEventEP17QContextMenuEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fgets@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSaIcEC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK11QEventPoint8positionEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & open@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK8QSpinBox5valueEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libxkbcommon.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK4QDir9entryListERK5QListI7QStringE6QFlagsINS\_6FilterEES5\_INS\_8SortFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12\_M\_constructEmc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XrmGetResource
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView11resizeEventEP12QResizeEvent
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & \_ZN7QRegExpC1ERK7QStringN2Qt15CaseSensitivityENS\_13PatternSyntaxE
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem6statusERKNS\_7\_\_cxx114pathE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt28\_\_throw\_bad\_array\_new\_lengthv@GLIBCXX\_3.4.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glColorMaterial
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget14heightForWidthEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fclose@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9showEventEP10QShowEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libcap.so.2 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_guard\_acquire@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGrabPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14setFocusPolicyEN2Qt11FocusPolicyE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt11logic\_errorD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget13sharedPainterEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_errno\_location@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fwrite@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r110initializeERNS0\_2d118task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XQLength
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & realloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XResizeWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget8sizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel9setPixmapERK7QPixmap@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERj@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & nanosleep@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt13runtime\_error4whatEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glLoadIdentity
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12out\_of\_rangeD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN10QByteArray6insertEx14QByteArrayView@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & fmodf@GLIBC\_2.38
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow15createPopupMenuEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QLineEdit7setTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow16contextMenuEventEP17QContextMenuEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QStatusBarC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fputc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo6sentryC1ERSo@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPalette8setBrushENS\_10ColorGroupENS\_9ColorRoleERK6QBrush@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & getrusage@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK14QStackedWidget6widgetEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strlen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEE4openERKNSt7\_\_cxx1112basic\_stringIcS1\_SaIcEEESt13\_Ios\_Openmode@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN15QAbstractSeries4showEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractSlider14setOrientationEN2Qt11OrientationE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_cond\_init@GLIBC\_2.3.2
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt24\_\_throw\_invalid\_argumentPKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem6removeERKNS\_7\_\_cxx114pathE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractSlider13setSingleStepEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject11deleteLaterEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libdbus-1.so.3 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r124cache\_aligned\_deallocateEPv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13focusOutEventEP11QFocusEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XMapWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayout9addWidgetEP7QWidgetii6QFlagsIN2Qt13AlignmentFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glNormalPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget13setStyleSheetERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QLayout12removeWidgetEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt17\_\_throw\_bad\_allocv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetVisualInfo
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView10wheelEventEP11QWheelEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glDepthFunc
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextFormat11setPropertyEiRK8QVariant@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9setLayoutEP7QLayout@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XFreeEventData
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glGetDoublev
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QToolButtonC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN9QGradient10setColorAtEdRK6QColor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QAbstractAxis12setTitleTextERK7QString
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & raise@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKRSt7\_\_cxx1119basic\_ostringstreamIcSt11char\_traitsIcESaIcEE3strEv@GLIBCXX\_3.4.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK11QObjectData17dynamicMetaObjectEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView14drawForegroundEP8QPainterRK6QRectF@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & snprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glCullFace
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem18create\_directoriesERKNS\_7\_\_cxx114pathE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEEC1EPKcSt13\_Ios\_Openmode@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QSpinBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glMatrixMode
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & qsort@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & feof@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK8QProcess8exitCodeEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget18setLayoutDirectionEN2Qt15LayoutDirectionE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QFormLayout6addRowERK7QStringP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pclose@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN11QLineSeriesC1EP7QObject
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & truncate64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & fread@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget15keyReleaseEventEP9QKeyEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & fputc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QTextCharFormat7setFontERK5QFontNS\_33FontPropertiesInheritanceBehaviorE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN11QMetaObject10ConnectionD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QToolTip8showTextERK6QPointRK7QStringP7QWidgetRK5QRecti@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QFrameC1EP7QWidget6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QToolBar18setToolButtonStyleEN2Qt15ToolButtonStyleE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12\_\_shared\_ptrINSt10filesystem7\_\_cxx114\_DirELN9\_\_gnu\_cxx12\_Lock\_policyE2EEC1EOS5\_@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBox11setDecimalsEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject11connectImplEPKS\_PPvS1\_S3\_PN9QtPrivate15QSlotObjectBaseEN2Qt14ConnectionTypeEPKiPK11QMetaObject@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & ceilf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbFreeNames
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart17createDefaultAxesEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strptime@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QCheckBox13setCheckStateEN2Qt10CheckStateE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_cond\_wait@GLIBC\_2.3.2
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XUnmapWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget6layoutEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString5splitE5QChar6QFlagsIN2Qt18SplitBehaviorFlagsEENS2\_15CaseSensitivityE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QPixmapC1ERK7QStringPKc6QFlagsIN2Qt19ImageConversionFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & lseek64@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor14beginEditBlockEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XLookupString
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView10paintEventEP11QPaintEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & atoi@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strcpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12find\_last\_ofEcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEb@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & inotify\_rm\_watch@GLIBC\_2.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSi10\_M\_extractIdEERSiRT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & cos@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & close@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & XDestroyWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetSelectionOwner
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QFrame13setFrameShapeENS\_5ShapeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart5titleEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK12QTableWidget11columnCountEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget7devTypeEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZThn16\_NK13QOpenGLWidget10redirectedEP6QPoint@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glViewport
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget17hasHeightForWidthEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r128is\_group\_execution\_cancelledERNS0\_2d118task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glMaterialfv
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & feof@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strftime@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColor10fromStringE14QAnyStringView@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11actionEventEP12QActionEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libbz2.so.1.0 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget20testAttribute\_helperEN2Qt15WidgetAttributeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbQueryExtension
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE11\_M\_capacityEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6locale6globalERKS\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget15mousePressEventEP11QMouseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QLineEditC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6insertEmPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QApplicationD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartViewC2EP7QWidget
+ \midrule 
+/lib/x86\_64-linux-gnu/libpng16.so.16 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6appendEPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & time@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget5eventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & backtrace@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString8fromUtf8E14QByteArrayView@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem7\_\_cxx114path14\_M\_split\_cmptsEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4sizeEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_ctype\_toupper\_loc@GLIBC\_2.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt10filesystem7\_\_cxx1118directory\_iteratordeEv@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fstat64@GLIBC\_2.33
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6substrEmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN4QPenD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QBrushC1ERK9QGradient@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK6QBrushcv8QVariantEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetSelectionOwner
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10setPaletteERK8QPalette@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_getdelim@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & ungetc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSaIcEC1ERKS\_@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractButton7setIconERK5QIcon@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QDirC1ERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QUrlD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & raise@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QAction7setIconERK5QIcon@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetErrorText
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK15QAbstractSeries4nameEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetScreenSaver
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9hideEventEP10QHideEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glEnableClientState
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN9QXYSeries6appendEdd
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QHBoxLayoutC1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget4showEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & close@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glGetDoublev
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertIdEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPopMatrix
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK15QAbstractButton9isCheckedEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget16inputMethodEventEP17QInputMethodEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XCreateWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEaSERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextFormataSERKS\_@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERl@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN5QMenu4execERK6QPointP7QAction@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QGridLayout13setRowStretchEii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_stack\_chk\_fail@GLIBC\_2.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_throw\_bad\_array\_new\_length@CXXABI\_1.3.8
+ \midrule 
+/lib/x86\_64-linux-gnu/liblz4.so.1 & sin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13basic\_filebufIcSt11char\_traitsIcEED1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XWarpPointer
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & regfree@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK13QGraphicsView8sizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgcrypt.so.20 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QBoxLayout9addLayoutEP7QLayouti@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & memchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & strncpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10closeEventEP11QCloseEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPointSize
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & sprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo3putEc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & getpid@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidget14setColumnCountEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN8QSpinBox10setMinimumEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_isoc23\_fscanf@GLIBC\_2.38
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QDialog9showEventEP10QShowEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem10remove\_allERKNS\_7\_\_cxx114pathE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & sinf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEpLERKS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE5eraseEN9\_\_gnu\_cxx17\_\_normal\_iteratorIPKcS4\_EES9\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & round@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QVBoxLayoutC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt18\_Rb\_tree\_incrementPSt18\_Rb\_tree\_node\_base@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE9\_M\_mutateEmmPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget11paintEngineEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & strlen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZThn16\_NK7QWidget11initPainterEP8QPainter@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_gxx\_personality\_v0@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8\_\_detail15\_List\_node\_base7\_M\_hookEPS0\_@GLIBCXX\_3.4.15
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_cxa\_atexit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strncpy@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERm@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6localeD1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEE5rdbufEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & close@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QPixmapD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libcap.so.2 & strdup@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6OpenGLWidgets.so.6 & \_ZN13QOpenGLWidgetD2Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & getenv@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget14dragEnterEventEP15QDragEnterEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK10QTabWidget5countEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QPixmapC1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEE5closeEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & tolower@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget11tabletEventEP12QTabletEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XTranslateCoordinates
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_throw@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractButton7setTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERi@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1115basic\_stringbufIcSt11char\_traitsIcESaIcEE7\_M\_syncEPcmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDisplayKeycodes
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r15resetERNS0\_2d118task\_group\_contextE
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & stat64@GLIBC\_2.33
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & asin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & tan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN16QCoreApplication4quitEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEx@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN13QLogValueAxisC1EP7QObject
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & raise@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & feclearexcept@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN14QDoubleSpinBox13setSingleStepEd@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glTranslatef
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN9QShortcutC1EN12QKeySequence11StandardKeyEP7QObjectPKcS5\_N2Qt15ShortcutContextE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glMaterialfv
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE10\_M\_replaceEmmPKcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QLayout18setContentsMarginsEiiii@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & acos@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r114notify\_waitersEm
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE6resizeEm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & regerror@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & tan@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSo9\_M\_insertIyEERSoT\_@GLIBCXX\_3.4.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN11QMetaObject8activateEP7QObjectPKS\_iPPv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_\_cxa\_call\_unexpected@CXXABI\_1.3
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN8QProcess21readAllStandardOutputEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & malloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN16QDialogButtonBox18setStandardButtonsE6QFlagsINS\_14StandardButtonEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QValueAxis17setMinorTickCountEi
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QHeaderView20setSectionResizeModeENS\_10ResizeModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK5QFont9pointSizeEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & XQueryExtension
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glGetTexEnviv
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XDefineCursor
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9exceptionD2Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6thread20hardware\_concurrencyEv@GLIBCXX\_3.4.17
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r110initializeERNS0\_2d115task\_arena\_baseE
+ \midrule 
+/lib/x86\_64-linux-gnu/libxcb.so.1 & open@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & asin@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK10QValueAxis14minorTickCountEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject12moveToThreadEP7QThread@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_libc\_start\_main@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZdlPvm@CXXABI\_1.3.9
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & sqrtf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10setEnabledEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libsystemd.so.0 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_mutex\_lock@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & frexp@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_vsprintf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & dlsym@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QTextEdit6appendERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt11logic\_errorC1EPKc@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libzstd.so.1 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & srand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView5eventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetErrorHandler
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glEnableClientState
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractButton10setCheckedEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & rand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & \_ZN7QRegExpD1Ev
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strtod@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView16inputMethodEventEP17QInputMethodEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLX.so.0 & XCreateWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN13QTextDocument18setMetaInformationENS\_15MetaInformationERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XGetIMValues
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & strcat@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPopMatrix
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QComboBoxC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt8\_\_detail15\_List\_node\_base9\_M\_unhookEv@GLIBCXX\_3.4.15
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN10QClipboard7setTextERK7QStringNS\_4ModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem7\_\_cxx114path17replace\_extensionERKS1\_@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLX.so.0 & XDestroyWindow
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ifstreamIcSt11char\_traitsIcEEC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XrmDestroyDatabase
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN6QChart9addSeriesEP15QAbstractSeries
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsItem10setVisibleEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN9QLineEdit11setReadOnlyEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libmetis.so & srand@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK6QChart6legendEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13basic\_filebufIcSt11char\_traitsIcEEC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt12\_\_shared\_ptrINSt10filesystem7\_\_cxx114\_DirELN9\_\_gnu\_cxx12\_Lock\_policyE2EEC1Ev@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glPointSize
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK4QDir9entryListE6QFlagsINS\_6FilterEES0\_INS\_8SortFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLdispatch.so.0 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN15QAbstractButton13setAutoRepeatEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN15QGuiApplication17setOverrideCursorERK7QCursor@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget9addActionEP7QAction@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XkbFreeKeyboard
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & ceil@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strrchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEl@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGLU.so.1 & gluPerspective
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r17executeERNS0\_2d115task\_arena\_baseERNS2\_13delegate\_baseE
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN8QPainterD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE13find\_first\_ofEcm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glPopAttrib
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & memcpy@GLIBC\_2.14
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget15minimumSizeHintEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libz.so.1 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QSliderC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & tolower@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt6localeC1EPKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt19\_\_throw\_logic\_errorPKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & fopen@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13setupViewportEP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & exit@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QRadioButtonC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glBlendFunc
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSirsERy@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glMaterialf
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE12find\_last\_ofEPKcmm@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QPixmap4loadERK7QStringPKc6QFlagsIN2Qt19ImageConversionFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE15\_M\_replace\_coldEPcmPKcmm@GLIBCXX\_3.4.31
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString8endsWithERKS\_N2Qt15CaseSensitivityE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & vsnprintf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & log@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & memcpy@GLIBC\_2.14
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN11QTextCursor12movePositionENS\_13MoveOperationENS\_8MoveModeEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN10QTabWidget6addTabEP7QWidgetRK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & write@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN4QPen8setBrushERK6QBrush@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView14dragLeaveEventEP15QDragLeaveEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_cond\_broadcast@GLIBC\_2.3.2
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN13QGraphicsView13setRenderHintEN8QPainter10RenderHintEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libbsd.so.0 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN4QPen8setWidthEi@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt9basic\_iosIcSt11char\_traitsIcEE8setstateESt12\_Ios\_Iostate@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & read@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QIconD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & pow@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/ld-linux-x86-64.so.2 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QLabel7setTextERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt11\_Hash\_bytesPKvmm@CXXABI\_1.3.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XUnsetICFocus
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & ldexpf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QAction9triggeredEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QString10startsWithERKS\_N2Qt15CaseSensitivityE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & strchr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSetICFocus
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEE4openEPKcSt13\_Ios\_Openmode@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget16contextMenuEventEP17QContextMenuEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & rename@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glClear
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZNK7QWidget7paletteEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt20\_\_throw\_out\_of\_rangePKc@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & toupper@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glTranslatef
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QBrushD1Ev@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN4QDir7setPathERK7QString@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEE4dataEv@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN6QColoraSEN2Qt11GlobalColorE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libm.so.6 & log2@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNKSt9basic\_iosIcSt11char\_traitsIcEE7rdstateEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & printf@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & system@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget18focusNextPrevChildEb@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSi3getEv@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libicuuc.so.74 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt9use\_facetISt8time\_putIcSt19ostreambuf\_iteratorIcSt11char\_traitsIcEEEERKT\_RKSt6locale@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & \_\_vfprintf\_chk@GLIBC\_2.3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QString6appendE5QChar@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libglib-2.0.so.0 & stderr@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt13basic\_filebufIcSt11char\_traitsIcEE4openEPKcSt13\_Ios\_Openmode@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libGL.so.1 & glColor3f
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZNK7QPixmap14scaledToHeightEiN2Qt18TransformationModeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN5QMenuC1EP7QWidget@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libtbb.so.12 & \_ZN3tbb6detail2r116execute\_and\_waitERNS0\_2d14taskERNS2\_18task\_group\_contextERNS2\_12wait\_contextES6\_
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt14basic\_ofstreamIcSt11char\_traitsIcEEC1Ev@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libgpg-error.so.0 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidgetC2EPS\_6QFlagsIN2Qt10WindowTypeEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core5Compat.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEEC1EOS4\_@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XVisualIDFromVisual
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZN10QChartView11qt\_metacallEN11QMetaObject4CallEiPPv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN7QWidget10wheelEventEP11QWheelEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt10filesystem8absoluteERKNS\_7\_\_cxx114pathE@GLIBCXX\_3.4.26
+ \midrule 
+/lib/x86\_64-linux-gnu/libgomp.so.1 & calloc@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libX11.so.6 & XSelectInput
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZSt18\_Rb\_tree\_decrementPKSt18\_Rb\_tree\_node\_base@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Charts.so.6 & \_ZNK9QXYSeries6pointsEv
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN7QObject10childEventEP11QChildEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & fread@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN7QCursorC1EN2Qt11CursorShapeE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & pthread\_setspecific@GLIBC\_2.34
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN11QMainWindow10setMenuBarEP8QMenuBar@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN6QFrame11changeEventEP6QEvent@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN16QCoreApplication13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Gui.so.6 & \_ZN5QIcon7addFileERK7QStringRK5QSizeNS\_4ModeENS\_5StateE@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & free@GLIBC\_2.2.5
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZNK7QObject6senderEv@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSt7\_\_cxx1112basic\_stringIcSt11char\_traitsIcESaIcEED1Ev@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libOpenGL.so.0 & glOrtho
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Core.so.6 & \_ZN11QMetaObject18connectSlotsByNameEP7QObject@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libc.so.6 & exp@GLIBC\_2.29
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZNSolsEi@GLIBCXX\_3.4
+ \midrule 
+/lib/x86\_64-linux-gnu/libQt6Widgets.so.6 & \_ZN12QTableWidget23setHorizontalHeaderItemEiP16QTableWidgetItem@Qt\_6
+ \midrule 
+/lib/x86\_64-linux-gnu/libstdc++.so.6 & \_ZStlsIcSt11char\_traitsIcESaIcEERSt13basic\_ostreamIT\_T0\_ES7\_RKNSt7\_\_cxx1112basic\_stringIS4\_S5\_T1\_EE@GLIBCXX\_3.4.21
+ \midrule 
+/lib/x86\_64-linux-gnu/libicui18n.so.74 & exp@GLIBC\_2.29
+ \midrule 

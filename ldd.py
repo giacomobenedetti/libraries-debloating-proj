@@ -28,7 +28,7 @@ def run_libtree(program: str) -> set:
     output = output.decode()
     output = output.split("\n")
     # output = [x for x in output if "├──" in x or "└──" in x]
-    output = [findall(r"(\/.*\.so.*)\s", x) for x in output if x]
+    output = [findall(r"([\/|\w].*\.so.*)\s", x) for x in output if x]
     # output = [x[0] for x in output if len(x) > 0]
 
 
@@ -37,7 +37,7 @@ def run_libtree(program: str) -> set:
     direct_deps_output = check_output(split(f"libtree --max-depth 1 -vv -p {program}"))
     direct_deps_output = direct_deps_output.decode()
     direct_deps_output = direct_deps_output.split("\n")
-    direct_deps_output = [findall(r"(\/.*\.so.*)\s", x) for x in direct_deps_output if x]
+    direct_deps_output = [findall(r"([\/|\w].*\.so.*)\s", x) for x in direct_deps_output if x]
     direct_deps_output = [x[0] for x in direct_deps_output if len(x) > 0]
 
     return set_shared_libraries, direct_deps_output
@@ -59,7 +59,7 @@ def get_exported(shared_lib: str):
     result = []
     for x in output:
         if len(x) > 1:
-            if x[1] == "T":
+            if x[1] == "T" or x[1] == "t" or x[1] == "W" or x[1] == "w":
                 result.append(x[2])
     return result
     
@@ -90,6 +90,9 @@ def get_names(program: str):
             if x[0] == "U":
                 result.append(x[1])
     return result
+
+
+
 
 '''
     Check how many functions match between the results of ldd and nm

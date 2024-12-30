@@ -32,9 +32,6 @@ def clone_repos():
                 os.chdir("repos")
             os.system(f"git clone --recursive {repo}")
 
-
-
-
 # For each repo in repos check the parameters used for compiling the project, They are contained in the cmake files
 def check_cmake_files():
     for repo in os.listdir("repos"):
@@ -44,12 +41,13 @@ def check_cmake_files():
             os.system("find . -name CMakeLists.txt -exec grep -Hn 'add_executable' {} \;")
             os.chdir("../../")
 
-
 def plot_bloating_factor():
     all_data = []
 
-    for csv in os.listdir("csv"):
-        data = pd.read_csv(f"csv/{csv}", delimiter=";")
+    for csv in os.listdir("csv/per_executable"):
+        # if not "PEMesh" in csv:
+        #     continue
+        data = pd.read_csv(f"csv/per_executable/{csv}", delimiter=";")
         if "% Unused Functions" in data.columns:
             # Remove '%' and replace ',' with '.' for numeric conversion
             data["% Unused Functions"] = data["% Unused Functions"].str.replace('%', '').str.replace(',', '.').astype(float)
@@ -88,6 +86,7 @@ def plot_bloating_factor():
     ax1.set_ylabel('Total Exported Functions', color='b', fontsize=14)
     ax1.tick_params(axis='y', labelcolor='b')
     ax1.set_xticklabels(grouped_data["Library"], rotation=45, ha='right')
+    ax1.set_yscale('log')
 
     # Line plot for mean bloating factor
     ax2 = ax1.twinx()
@@ -95,68 +94,115 @@ def plot_bloating_factor():
     ax2.set_ylabel('Mean Bloating Factor (%)', color='r', fontsize=14)
     ax2.tick_params(axis='y', labelcolor='r')
 
-    fig.tight_layout()
-    plt.savefig("plots/bloating_factor_analysis.pdf")
-    plt.show()
+    plt.tight_layout()
+    plt.savefig("plots/bloating_factor.pdf")
 
+def plot_bloating_histogram_per_executable():
+    all_data_direct = []
+    all_data_indirect = []
 
-def plot_imports_vs_bloating():
-    all_data = []
-
-    for csv in os.listdir("csv"):
-        data = pd.read_csv(f"csv/{csv}", delimiter=";")
-        if "% Unused Functions" in data.columns:
+    for csv in os.listdir("csv/per_executable"):
+        data = pd.read_csv(f"csv/per_executable/{csv}", delimiter=";")
+        if "% Unused Functions" in data.columns and "# Total Functions" in data.columns and "Direct" in data.columns:
+            data_direct = data[data["Direct"] == 1]
+            data_indirect = data[data["Direct"] == 0]
             # Remove '%' and replace ',' with '.' for numeric conversion
-            data["% Unused Functions"] = data["% Unused Functions"].str.replace('%', '').str.replace(',', '.').astype(float)
-            all_data.append(data)
+            data_indirect["% Unused Functions"] = data_indirect["% Unused Functions"].str.replace('%', '').str.replace(',', '.').astype(float)
+            data_direct["% Unused Functions"] = data_direct["% Unused Functions"].str.replace('%', '').str.replace(',', '.').astype(float)
+            
+            # Calculate the number of unused functions
+            data_indirect["# Unused Functions"] = (data_indirect["% Unused Functions"] / 100) * data_indirect["# Total Functions"]
+            data_direct["# Unused Functions"] = (data_direct["% Unused Functions"] / 100) * data_direct["# Total Functions"]
+            # 
+            # Create a new DataFrame with executable name, mean number of unused functions, and direct field
+            executable_name = os.path.splitext(os.path.basename(csv))[0]
+            unused_functions_direct = data_direct["# Unused Functions"].sum()
+            unused_functions_indirect = data_indirect["# Unused Functions"].sum()
+            
+            
+            all_data_direct.append({"Executable": executable_name, "Unused Functions": unused_functions_direct, "Direct": 1})
+            all_data_indirect.append({"Executable": executable_name, "Unused Functions": unused_functions_indirect, "Direct": 0})
         else:
-            print(f"Column '% Unused Functions' not found in {csv}")
+            print(f"Columns '% Unused Functions', '# Total Functions', or 'Direct' not found in {csv}")
 
-    if not all_data:
+    # Convert the list of dictionaries to a DataFrame
+    bloat_data_indirect = pd.DataFrame(all_data_indirect)
+    bloat_data_direct = pd.DataFrame(all_data_direct)
+
+    if bloat_data_direct.empty:
         print("No valid data found.")
         return
 
-    # Concatenate all dataframes
-    combined_data = pd.concat(all_data)
+    # Sort the DataFrame alphabetically by executable name
+    bloat_data_indirect = bloat_data_indirect.sort_values(by="Executable")
+    bloat_data_direct = bloat_data_direct.sort_values(by="Executable")
 
-    # Remove libraries that contain 'libicudata.so.74' from the dataset
-    combined_data = combined_data[~combined_data["Library"].str.contains("libicudata.so.74")]
+    # Separate data into direct and indirect dependencies
+    # direct_data = bloat_data[bloat_data["Direct"] == 1].set_index("Executable")
+    # indirect_data = bloat_data[bloat_data["Direct"] == 0].set_index("Executable")
 
-    # Count the number of times each library is imported
-    import_counts = combined_data["Library"].value_counts().reset_index()
-    import_counts.columns = ["Library", "Import Count"]
+    # print(bloat_data)
 
-    # Compute the mean bloating factor for each library
-    mean_bloating = combined_data.groupby("Library")["% Unused Functions"].mean().reset_index()
+    # Reindex indirect_data to match direct_data
+    # indirect_data = indirect_data.reindex(direct_data.index).fillna(0)
 
-    # Merge the import counts and mean bloating data
-    merged_data = pd.merge(import_counts, mean_bloating, on="Library")
+    # Calculate the percentage of indirect unused functions
+    # total_unused_functions = direct_data["Unused Functions"] + indirect_data["Unused Functions"]
+    # indirect_percentage = (indirect_data["Unused Functions"] / total_unused_functions) * 100
 
-    # Extract the last part of the library name
-    merged_data["Library"] = merged_data["Library"].apply(lambda x: x.split('/')[-1])
+    # Plot horizontal stacked bar chart of mean number of unused functions per executable
+    fig, ax = plt.subplots(figsize=(15, 8))
 
-    # Plotting
-    fig, ax1 = plt.subplots(figsize=(20, 12))  # Adjust the figure size here
+    bar_width = 0.35
+    index = range(len(bloat_data_direct))
 
-    # Bar plot for import counts
-    ax1.bar(merged_data["Library"], merged_data["Import Count"], color='b', alpha=0.6)
-    ax1.set_xlabel('Libraries', fontsize=18)
-    ax1.set_ylabel('Number of Imports', color='b', fontsize=18)
-    ax1.tick_params(axis='y', labelcolor='b')
-    ax1.set_xticklabels(merged_data["Library"], rotation=45, ha='right', fontsize=12)
+    direct_bars = ax.barh([i  for i in index], bloat_data_direct["Unused Functions"], bar_width, label='Direct', color='b', alpha=0.7)
+    indirect_bars = ax.barh([i for i in index], bloat_data_indirect["Unused Functions"], bar_width, label='Indirect', color='r', alpha=0.7)
+    ax.set_xlabel('Number of Unused Functions', fontsize=20)
+    ax.set_ylabel('Executable', fontsize=20)
+    ax.set_yticks(index)
+    ax.set_xscale('log')
+    ax.set_yticklabels(bloat_data_direct["Executable"], fontsize=16)
+    ax.tick_params(axis='x', labelsize=16)
+    ax.legend(fontsize=16)
 
-    # Line plot for mean bloating factor
-    ax2 = ax1.twinx()
-    ax2.plot(merged_data["Library"], merged_data["% Unused Functions"], color='r', marker='o')
-    ax2.set_ylabel('Mean Bloating Factor (%)', color='r', fontsize=18)
-    ax2.tick_params(axis='y', labelcolor='r')
+    # Add percentage labels for indirect dependencies
+    # for i in index:
+    #     ax.text(total_unused_functions[i], i, f'{indirect_percentage[i]:.1f}%', va='center', ha='left', fontsize=12, color='black')
 
-    fig.tight_layout()
-    plt.savefig("plots/imports_vs_bloating_factor.png")
-    plt.show()
+    plt.tight_layout()
+    print("Saving plot to plots/bloating_per_executable.pdf")
+    plt.savefig("plots/bloating_per_executable.pdf")
+    # plt.show()
+
+def generate_combined_functions_csv(input_dir='csv/function_names', output_file='combined_functions.csv'):
+    all_functions = set()
+
+    # Iterate over all CSV files in the input directory
+    for csv_file in os.listdir(input_dir):
+        if csv_file.endswith('.csv'):
+            file_path = os.path.join(input_dir, csv_file)
+            data = pd.read_csv(file_path, delimiter=";")
+            
+            # Check if the 'Library' and 'Function' columns exist
+            if 'Library' in data.columns and 'Function' in data.columns:
+                for _, row in data.iterrows():
+                    all_functions.add((row['Library'], row['Function']))
+            else:
+                print(f"Columns 'Library' or 'Function' not found in {csv_file}")
+
+    # Convert the list of dictionaries to a DataFrame
+    combined_data = pd.DataFrame(all_functions)
+
+    # Write the combined function names to a new CSV file
+    combined_data.to_csv(output_file, index=False, sep=';')
+
+    print(f"Combined functions CSV generated: {output_file}")
 
 if __name__ == "__main__":
     # clone_repos()
     # check_cmake_files()
     # plot_imports_vs_bloating()
-    plot_bloating_factor()
+    # plot_bloating_factor()
+    plot_bloating_histogram_per_executable()
+    # generate_combined_functions_csv()
